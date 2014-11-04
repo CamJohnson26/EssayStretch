@@ -1,0 +1,13 @@
+
+Please consider my application for the iOS developer position and the Front End Developer in Chicago.
+
+I am drawn to CSG because of its reputation as a global leader in the BSS/OSS sector and because of the unique challenges the company faces within the industry. With a focus on providing customized solutions to customers, CSG must work with customers to provide a tailored product that specifically meets the customer's needs. This flexibility requires a broad spectrum of knowledge and deep understanding of the disparate disciplines of security, finance, and analytics, among others.
+
+As a member of the CSG team, I will provide a variety of skills which I believe will be beneficial to the company. Since I am a self-taught programmer who enjoys problem solving, I am adept at learning new technologies and industries and can acquire new information rather quickly. CSG's commitment to innovation and customized technologies appeals to me because it requires constant learning and flexibility. In addition, my knowledge of business, specifically accounting, will be an asset to the company because of the degree to which I will be able to understand the business challenges that various customers face.
+
+I will achieve my MS in computer science from Northwestern University in December 2014. My undergraduate degree was in accounting, and I have followed up with my undergraduate degree by sitting for 2 of the 4 tests required for the CPA, passing both tests on the first try. I have single-handedly built two iOS apps from scratch, Sleep Gadget and Prayer Vault, and learned much about the lifecycle of an app, from prototyping to customer support. Over the summer, I worked with a professor at a marketing analytics company to build a dashboard to monitor Google Analytics and Facebook data. In addition to other skills, the project required knowledge of PHP, jQuery, and database management, none of which I had much experience with. However, after the first week I was comfortable with each of these technologies, and by the end of the three month project consider myself very familiar with them.
+
+CSG is a global leader in business solutions, and I look forward to the opportunity to contribute my skills to such an impressive organization.
+
+Sincerely,
+Cameron Johnson
